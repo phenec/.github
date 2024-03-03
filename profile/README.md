@@ -1,6 +1,6 @@
 <div align="center">
   <img src="/profile/banner.png">
-  <b>Phenec: English learning app based on phonetic symbols.</b>
+  <h3>Phenec: English learning app based on phonetic symbols.</h3>
 </div>
 
 # Phenec
