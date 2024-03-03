@@ -1,2 +1,7 @@
+<div align="center">
+  <img src="banner.png">
+  <b>Phenec: English learning app based on phonetic symbols.</b>
+</div>
+
 # Phenec
-### English learning app based on phonetic symbols (under development!)
+### under development!
